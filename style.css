@@ -1,0 +1,48 @@
+.top-bk{
+background-color: black;
+font-family:oblique ;
+}
+p{
+
+    
+
+ font-family:italic;
+
+}
+.mar{
+    margin: 0px 70px 0px 50px;
+}
+.mar1{
+    margin: 0px 0px 20px 20px;
+}
+.wt{
+
+    background-color: rgb(211, 208, 203);
+
+}
+.mar30{
+
+    margin-left: 30px;
+}
+.mar20{
+
+    margin-left: 20px;
+}
+.mar150{
+
+    width: 1000px; margin-left: 150px;
+}
+.mar50{
+
+    margin: 0px 50px 30px 30px;
+}
+.mar70{
+    margin: 50px 70px 0px 50px
+}
+.mar10{
+    margin: 10px 150px 10px 100px; color: white;
+}
+.mar40{
+    font-size: 20px;
+    margin-left: 40px;
+}

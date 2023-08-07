@@ -1,0 +1,13 @@
+öğrenci numarasi:    s221210308
+
+adi:                 Mahfuz Agil
+
+sinif:               A GURBU
+
+giriş email:         s221210308@sakarya.edu.tr
+
+şefre:               s221210308
+
+github               https://github.com/m-ali-bathich
+
+hosting              http://webodev2022.eb2a.com/
